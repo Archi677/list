@@ -22,19 +22,18 @@
 1. [About the Project](#-about-the-project)
 2. [Why This Project Exists](#-why-this-project-exists)
 3. [Features](#-features)
-4. [Screenshots / Demo](#-screenshots--demo)
-5. [Usage](#-usage)
-6. [Project Structure](#️-project-structure)
-7. [Tech Stack](#️-tech-stack)
-8. [How It Works](#-how-it-works)
-9. [Roadmap](#-roadmap)
-10. [Contributing](#-contributing)
-11. [Code of Conduct](#-code-of-conduct)
-12. [FAQ](#-faq)
-13. [Acknowledgements](#-acknowledgements)
-14. [About the Developer](#-about-the-developer)
-15. [Contact](#-contact)
-16. [License](#-license)
+4. [Usage](#-usage)
+5. [Project Structure](#️-project-structure)
+6. [Tech Stack](#️-tech-stack)
+7. [How It Works](#-how-it-works)
+8. [Roadmap](#-roadmap)
+9. [Contributing](#-contributing)
+10. [Code of Conduct](#-code-of-conduct)
+11. [FAQ](#-faq)
+12. [Acknowledgements](#-acknowledgements)
+13. [About the Developer](#-about-the-developer)
+14. [Contact](#-contact)
+15. [License](#-license)
 
 ---
 
@@ -88,16 +87,6 @@ It's also a personal milestone: a complete, working, deployed web application bu
 - 🔜 **Export / Import** — Save your list as a file and load it later.
 - 🔜 **Dark Mode** — A theme toggle for low-light environments.
 - 🔜 **Drag-and-Drop Reordering** — Prioritize items by dragging.
-
----
-
-## 🖼️ Screenshots / Demo
-
-> Screenshots coming soon. For now, the best demo is the live app itself.
-
-👉 **Try it live:** [https://archi677.github.io/list/](https://archi677.github.io/list/)
-
-If you'd like to add screenshots, open a pull request with images placed in a `screenshots/` folder and reference them here.
 
 ---
 
