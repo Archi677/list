@@ -25,15 +25,12 @@
 4. [Usage](#-usage)
 5. [Project Structure](#️-project-structure)
 6. [Tech Stack](#️-tech-stack)
-7. [How It Works](#-how-it-works)
-8. [Roadmap](#-roadmap)
-9. [Contributing](#-contributing)
-10. [Code of Conduct](#-code-of-conduct)
-11. [FAQ](#-faq)
-12. [Acknowledgements](#-acknowledgements)
-13. [About the Developer](#-about-the-developer)
-14. [Contact](#-contact)
-15. [License](#-license)
+7. [Contributing](#-contributing)
+8. [FAQ](#-faq)
+9. [Acknowledgements](#-acknowledgements)
+10. [About the Developer](#-about-the-developer)
+11. [Contact](#-contact)
+12. [License](#-license)
 
 ---
 
@@ -219,55 +216,6 @@ The project intentionally avoids frameworks and build tools. Benefits:
 
 ---
 
-## ⚙️ How It Works
-
-At a high level:
-
-1. The browser loads `index.html`.
-2. The embedded CSS styles the page.
-3. The embedded JavaScript handles user interactions:
-   - Reading input from the user.
-   - Updating the list in the DOM.
-   - (Optionally) storing state in the browser.
-4. Because everything is client-side, no network requests are made after the initial page load.
-
-### Data & Privacy
-
-- **No servers** — The app does not send data anywhere.
-- **No accounts** — There is nothing to sign up for.
-- **No tracking** — No analytics or third-party scripts are included.
-- **Local only** — Any state is kept in your browser (and may be lost on refresh unless persistence is added).
-
-If persistence is added in the future, it will likely use the browser's `localStorage` API, which stores data locally on your device.
-
----
-
-## 🗺️ Roadmap
-
-This is a living list of ideas. Contributions are welcome!
-
-### Short-Term
-- [ ] Add persistent storage via `localStorage`.
-- [ ] Add a "clear list" button.
-- [ ] Improve mobile responsiveness.
-- [ ] Add basic input validation and empty-state messaging.
-
-### Medium-Term
-- [ ] Mark items as "bought" with a checkbox.
-- [ ] Support multiple lists (e.g., Groceries, Hardware, Party).
-- [ ] Add drag-and-drop reordering.
-- [ ] Add a dark mode toggle.
-
-### Long-Term
-- [ ] Export/import lists as JSON or text.
-- [ ] Optional sync via a user-provided backend.
-- [ ] Progressive Web App (PWA) support for installability.
-- [ ] Internationalization (i18n) for multiple languages.
-
-> Have an idea? Open an issue on GitHub and let's discuss it.
-
----
-
 ## 🤝 Contributing
 
 Contributions are welcome and appreciated! Whether it's a bug report, a feature suggestion, or a pull request, your input helps make this project better.
@@ -306,12 +254,6 @@ When reporting a bug, please include:
 - Steps to reproduce it.
 - The browser and device you're using.
 - Screenshots if possible.
-
----
-
-## 📜 Code of Conduct
-
-This project follows a simple principle: **be kind and constructive**. Harassment, discrimination, or disrespectful behavior will not be tolerated. Everyone is welcome to contribute regardless of experience level, background, or identity.
 
 ---
 
